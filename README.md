@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Charly Rosero Caldón
 
-**Solution Architect** especializado en **Analytics, Big Data** e **Ingeniería de Datos** con más de [X] años de experiencia en el diseño e implementación de arquitecturas escalables y optimizadas en la nube (**Azure**, **AWS**).
+**Solution Architect** especializado en **Analytics, Big Data** e **Ingeniería de Datos** con más de 10 años de experiencia en el diseño e implementación de arquitecturas escalables y optimizadas en la nube (**Azure**, **AWS**).
 
 Soy apasionado por los datos, y mi trabajo se centra en la creación de **Data Warehouses** y **Data Lakehouses** eficientes, aplicando prácticas **DataOps** para asegurar la automatización y calidad de los flujos de trabajo. También tengo una gran motivación por el **Machine Learning** y **Generative AI**, y he trabajado en proyectos de integración de inteligencia artificial en soluciones de datos.
 
